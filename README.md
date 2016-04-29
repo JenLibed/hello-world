@@ -1,5 +1,5 @@
 # hello-world
-sample repo
-Jennilyn Libed
-B.S. Information Systems
-University of Santo Tomas
+
+Jennilyn Libed </br>
+B.S. Information Systems</br>
+University of Santo Tomas</br>
